@@ -37,3 +37,7 @@ The `versionName` is to display the version number of the application to users.
 True, the user can see the permissions that the application has by going to the `application information`.
 
 ![permissions](permissions.png)
+
+# Exercise 
+
+![permissions](gif.gif)
